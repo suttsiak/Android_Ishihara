@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  //* 3,5,6,12,29,45,74,42,82,Notting
+
+    <string-array name="chk2">
+        <item>1</item>
+        <item>5</item>
+        <item>2</item>
+        <item>Notting</item>
+    </string-array>
+    <string-array name="chk3">
+        <item>3</item>
+        <item>8</item>
+        <item>6</item>
+        <item>Notting</item>
+    </string-array>
+    <string-array name="chk4">
+        <item>12</item>
+        <item>13</item>
+        <item>42</item>
+        <item>Notting</item>
+    </string-array>
+    <string-array name="chk5">
+        <item>18</item>
+        <item>29</item>
+        <item>34</item>
+        <item>Notting</item>
+    </string-array>
+    <string-array name="chk6">
+        <item>48</item>
+        <item>16</item>
+        <item>45</item>
+        <item>Notting</item>
+    </string-array>
+    <string-array name="chk7">
+        <item>74</item>
+        <item>14</item>
+        <item>95</item>
+        <item>Notting</item>
+    </string-array>
+    <string-array name="chk8">
+        <item>44</item>
+        <item>42</item>
+        <item>12</item>
+        <item>Notting</item>
+    </string-array>
+    <string-array name="chk9">
+        <item>22</item>
+        <item>43</item>
+        <item>71</item>
+        <item>Notting</item>
+    </string-array>
+    <string-array name="chk10">
+        <item>45</item>
+        <item>66</item>
+        <item>21</item>
+        <item>Notting</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Basic_Model1</string>
+    <string name="title">1.What is this?</string>
+    <string name="title_activity_show_score">ShowScoreActivity</string>
+</resources>
